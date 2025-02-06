@@ -5408,7 +5408,7 @@ ul {
 
 /* line 1901, ../../01 cl html template/03_jun 2019/188_Aranoz shop_html/sass/_product.scss */
 .login_part .login_part_text {
-    background-image: -moz--webkit-linear-gradient(16deg, #293f26 0%, #fff82d 64%, #060606 100%);
+    background-image: linear-gradient(16deg, #293f26 0%, #fff82d 64%, #060606 100%);
     background-image: -webkit--webkit-linear-gradient(16deg, #293f26 0%, #fff82d 64%, #060606 100%);
     background-image: -ms--webkit-linear-gradient(16deg, #293f26 0%, #fff82d 64%, #060606 100%);
     background-size: 200% auto;
